@@ -1,6 +1,0 @@
-Pipeline: É a máquina. Ela só sabe fazer uma sequência de tarefas automáticas tipo: pegar, processar, entregar. Sem pensar, só faz.
-
-
-Workflow: É o chefe. Ele decide quando ligar a máquina, qual caminho seguir e o que fazer se der problema.
-
-A diferença é que o pipeline é o robô que executa a tarefa no automático, enquanto o workflow é a inteligência que decide quando e como ele deve agir. Um faz, o outro comanda.
